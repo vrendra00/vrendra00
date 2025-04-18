@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @vrendra00
-- 👀 I’m interested in learning full-stack-web-development.
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on backend.
+- 👋 Hi, I’m Virendra Vishwakarma (@vrendra00)
+- 👀 Aspiring Full-Stack Web Developer.
+- 🌱 I’m currently learning C++,Javascript.
+- Programming Laanguages learned and practiced ->C,HTML,CSS.
+- 💞️ I’m looking to collaborate on web development related projects to gain hand-on experience.
 - 📫 You can reach me here "virendravishwakarma261@gmail.com"
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: Still searching
